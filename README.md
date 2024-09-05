@@ -26,9 +26,11 @@ Before running the application, ensure that you have Python installed on your ma
 For Ubuntu/Linux:
 
 sudo apt-get install python3-tk
+
 For macOS:
 
 brew install python-tk
+
 For Windows:
 Tkinter is typically included with standard Python installations. No additional setup should be needed.
 
