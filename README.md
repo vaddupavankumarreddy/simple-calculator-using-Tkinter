@@ -36,7 +36,7 @@ Installation and Setup
 
 Clone the repository:
 
-git clone https://github.com/your-username/simple-calculator-tkinter.git
+git clone https://github.com/vaddupavankumarreddy/simple-calculator-tkinter.git
 Navigate into the project directory:
 
 cd simple-calculator-tkinter
@@ -58,7 +58,8 @@ Type a number and click on sin to calculate the sine of that number.
 Click C to clear the display or DEL to delete one character.
 Screenshot
 
-(Optional, include a screenshot of the calculator in action.)
+<img width="393" alt="Screenshot 2024-09-05 at 3 52 56 PM" src="https://github.com/user-attachments/assets/d26eb04c-c693-4ce7-8935-58329adc73c1">
+
 
 Contributing
 
