@@ -1,5 +1,5 @@
-**Simple Calculator using Tkinter
-**
+Simple Calculator using Tkinter
+
 This project is a simple calculator built using Python's Tkinter library. The calculator supports both basic and advanced operations, including trigonometric functions, logarithms, and exponentials.
 
 Features
