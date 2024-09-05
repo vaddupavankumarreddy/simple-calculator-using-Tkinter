@@ -58,7 +58,7 @@ Type a number and click on sin to calculate the sine of that number.
 Click C to clear the display or DEL to delete one character.
 Screenshot
 
-<img width="393" alt="Screenshot 2024-09-05 at 3 52 56 PM" src="https://github.com/user-attachments/assets/d26eb04c-c693-4ce7-8935-58329adc73c1">
+<img width="438" alt="Screenshot 2024-09-05 at 4 22 18 PM" src="https://github.com/user-attachments/assets/2ee0f887-9794-4e44-acbf-1f4bdc06b89d">
 
 
 Contributing
