@@ -6,7 +6,7 @@ Features
 
 Basic Operations:
 Addition (+)
-Subtraction (-)
+Subtraction (-) 
 Multiplication (*)
 Division (/)
 Modulus (%)
